@@ -1,0 +1,29 @@
+{
+  "_note": "somethingcool — instance brand pack (overrides over config/branding.neutral.json). Authored by `bongos init`. Fill the LOOK (palette/fonts/wordmark) with your own LLM via docs/branding-fill-prompt.md.",
+  "identity": {
+    "productName": "somethingcool",
+    "worldName": "somethingcool",
+    "company": {
+      "name": "",
+      "site": ""
+    }
+  },
+  "llmProjectName": "somethingcool",
+  "domains": {
+    "publicOrigin": "https://somethingcool.cloudbongos.com",
+    "buildersOrigin": "https://somethingcool.cloudbongos.com",
+    "statusOrigin": "https://somethingcool.cloudbongos.com",
+    "oauthOrigin": "https://somethingcool.cloudbongos.com"
+  },
+  "repo": {
+    "owner": "lars589",
+    "name": "somethingcool"
+  },
+  "firstAdmin": "lars589",
+  "currency": {
+    "label": "credits",
+    "symbol": ""
+  },
+  "envPrefix": "BONGOS",
+  "configDir": "somethingcool"
+}
